@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DictionaryClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DictionaryClient_jar</output-path>
+    <root id="archive" name="DictionaryClient.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/DictionaryClient/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Dictionary" />
+      <element id="library" level="project" name="JSON-java-master" />
+    </root>
+  </artifact>
+</component>

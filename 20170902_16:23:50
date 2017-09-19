@@ -1,0 +1,6 @@
+[Sat Sep 02 16:24:28 AEST 2017][INFO][Failed to query or the word is not in MyDictionary. IP:/127.0.0.1 Data:{"notes":"","time":"20170902_16:24:28","word":"BRO","operation":"wordQuery"}]
+[Sat Sep 02 16:24:42 AEST 2017][INFO][Failed to query or the word is not in MyDictionary. IP:/127.0.0.1 Data:{"notes":"","time":"20170902_16:24:42","word":"SFD","operation":"wordQuery"}]
+[Sat Sep 02 16:24:47 AEST 2017][INFO][Failed to query or the word is not in MyDictionary. IP:/127.0.0.1 Data:{"notes":"","time":"20170902_16:24:47","word":"CAN","operation":"wordQuery"}]
+[Sat Sep 02 16:25:08 AEST 2017][INFO][Failed to query or the word is not in MyDictionary. IP:/127.0.0.1 Data:{"notes":"","time":"20170902_16:25:08","word":"BRO","operation":"wordQuery"}]
+[Sat Sep 02 16:25:48 AEST 2017][WARNING][Thread failed to i/o. IP:/127.0.0.1 Data:{"notes":"","time":"20170902_16:25:20","word":"BRO","operation":"wordRemove"}[Ljava.lang.StackTraceElement;@2294de11]
+[Sat Sep 02 16:26:09 AEST 2017][INFO][Failed to query or the word is not in MyDictionary. IP:/127.0.0.1 Data:{"notes":"","time":"20170902_16:26:09","word":"BRO","operation":"wordQuery"}]
